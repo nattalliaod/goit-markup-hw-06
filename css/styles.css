@@ -765,6 +765,11 @@ img {
   border-radius: 4px;
 }
 
+.subscription-form-input:focus {
+  /* outline: none; */
+  color: var(--white-text-color);
+}
+
 .subscription-form-btn {
   position: relative;
   min-width: 200px;
